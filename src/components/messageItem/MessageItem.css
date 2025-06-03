@@ -1,0 +1,38 @@
+.message {
+  display: flex;
+  margin-bottom: 10px;
+  word-break: break-word; 
+}
+
+.bot {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.user {
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.avatar {
+  font-size: 24px;
+  margin-right: 10px;
+  color: #007bff;
+}
+
+.content {
+  background-color: #5fccff;
+  padding: 15px;
+  border-radius: 8px;
+  max-width: 80%;
+  color: black;
+}
+
+.user .content {
+  background-color: #01f593;
+  color: black;
+}
+
+.timestamp {
+  font-size: 0.8em;
+}
