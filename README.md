@@ -28,17 +28,16 @@ El backend debe tener configurada la base de datos y las rutas /messages.
 🚀 Instalación
 Clona el repositorio
 -------------------------
-git clone https://github.com/tu-usuario/chatbot-frontend.git 
+git clone https://github.com/tu-usuario/chatbot-frontend.git .\
 cd chatbot-frontend
 ------------------------------
 Instala dependencias : npm install
 ---------------------------------
-Ejecuta el proyecto en modo desarrollo 
-
+Ejecuta el proyecto en modo desarrollo .\
 npm run dev
 
 ------------------------
-📁 Estructura del Proyecto
+📁 Estructura del Proyecto .\
 src/
 ├── components/           # Componentes reutilizables
 │   ├── chat/             # Contenedor principal del chat
@@ -53,15 +52,15 @@ src/
 
 -----------------------------------------------------------------------------
 🎨 Diseño y Estilos
-Tailwind CSS : Usado para todo el estilo del proyecto.
-DaisyUI : Librería de componentes para darle mejor apariencia visual al chat.
-Interfaz totalmente responsive y centrada.
-Mensajes del usuario y del bot diferenciados visualmente.
-Scroll automático cuando llega un nuevo mensaje.
+Tailwind CSS : Usado para todo el estilo del proyecto. .\
+DaisyUI : Librería de componentes para darle mejor apariencia visual al chat.\
+Interfaz totalmente responsive y centrada.\
+Mensajes del usuario y del bot diferenciados visualmente.\
+Scroll automático cuando llega un nuevo mensaje.\
 -----------------------------------------------------------------------------
 📡 Comunicación con el Backend
 Se comunica con el backend a través de Axios.
-Llama a las siguientes rutas:
+Llama a las siguientes rutas: .\
 GET /messages: Obtiene el historial de mensajes.
 POST /messages: Envía un mensaje del usuario y recibe la respuesta del bot.
 
@@ -75,9 +74,8 @@ Scroll automático hacia abajo al recibir nuevos mensajes.
 
 ------------------------------------------------------------------------------
 
-👥 Créditos
-Desarrollado por Isaac Pimienta Morales
-📧 isaacpimienta358@gmail.com
+👥 Desarrollado por Isaac Pimienta Morales .\
+📧 isaacpimienta358@gmail.com .\
 📱 GitHub: sorukenss
 
 
