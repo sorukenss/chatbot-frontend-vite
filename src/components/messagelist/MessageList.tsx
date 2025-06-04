@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react';
+import { useEffect, useRef } from 'react';
 import MessageItem from '../messageItem/MessageItem.tsx';
 
 interface Message {
