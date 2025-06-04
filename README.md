@@ -28,7 +28,7 @@ El backend debe tener configurada la base de datos y las rutas /messages.
 🚀 Instalación
 Clona el repositorio
 -------------------------
-git clone https://github.com/tu-usuario/chatbot-frontend.git .\
+git clone https://github.com/sorukenss/chatbot-frontend-vite.git .\
 cd chatbot-frontend
 ------------------------------
 Instala dependencias : npm install
