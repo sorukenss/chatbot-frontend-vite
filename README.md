@@ -210,6 +210,5 @@ export default defineConfig({
 
 - 📧 **Email:** isaacpimienta358@gmail.com
 - 🐙 **GitHub:** [@sorukenss](https://github.com/sorukenss)
-- 💼 **LinkedIn:** [Isaac Pimienta](https://linkedin.com/in/isaac-pimienta)
 
 ---
