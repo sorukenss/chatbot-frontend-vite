@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API_URL = 'http://localhost:3000'; // URL del backend
-// const API_URL = 'https://chabot-backend-production.up.railway.app/'; // URL del backend
+// const API_URL = 'https://chabot-backend-production.up.railway.app'; // URL del backend
 
 export interface Message {
   id_message: number;
